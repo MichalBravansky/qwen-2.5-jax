@@ -1,0 +1,6 @@
+jax
+jaxlib
+numpy
+transformers
+torch
+accelerate
